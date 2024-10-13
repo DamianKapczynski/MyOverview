@@ -1,7 +1,9 @@
 # MyOverview
 
 Hi!
-I'm Damian, and I'm a software tester. I conduct manual functional tests, assess performance, and prepare test scenarios for user acceptance tests.
+I'm Damian, and I'm a software tester. 
+
+I conduct manual functional tests, assess performance, usability and prepare test scenarios for user acceptance tests.
 I also write and maintain automated tests.
 
-Check my projects
+In my repositories you can find code I wrote during courses or from my private projects.
